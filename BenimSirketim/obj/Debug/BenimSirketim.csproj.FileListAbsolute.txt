@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\BenimSirketim\BenimSirketim\bin\Debug\BenimSirketim.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\BenimSirketim\BenimSirketim\bin\Debug\BenimSirketim.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\BenimSirketim\BenimSirketim\bin\Debug\BenimSirketim.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\BenimSirketim\BenimSirketim\obj\Debug\BenimSirketim.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\BenimSirketim\BenimSirketim\obj\Debug\BenimSirketim.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\BenimSirketim\BenimSirketim\obj\Debug\BenimSirketim.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\BenimSirketim\BenimSirketim\obj\Debug\BenimSirketim.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\BenimSirketim\BenimSirketim\obj\Debug\BenimSirketim.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Giris\oop\BenimSirketim\BenimSirketim\obj\Debug\BenimSirketim.pdb
